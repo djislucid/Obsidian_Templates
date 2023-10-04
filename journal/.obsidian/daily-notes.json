@@ -1,0 +1,6 @@
+{
+  "autorun": true,
+  "format": "dddd, MMM Do",
+  "template": "templates/Daily Note",
+  "folder": "Log"
+}
